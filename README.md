@@ -35,3 +35,13 @@ face_mask_detection/
 ├── face_detector/ # Face detection model files
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
+
+
+---
+
+## ⚙️ Installation & Running
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/AiyushAd9/Face_mask_detection.git
+cd Face_mask_detection
